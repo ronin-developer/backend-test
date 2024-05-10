@@ -6,6 +6,3 @@
     <title>Backend-practice</title>
 </head>
 <body>
-    <h1>Backend-practice</h1>
-</body>
-</html>
